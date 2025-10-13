@@ -14,7 +14,7 @@ function Hero() {
           <h1 className="mb-5 text-7xl font-bold text-shadow-lg text-shadow-red-900">
             Phantom Fears
           </h1>
-          <h3 className="mb-5 text-3xl text-shadow-red-900">CRUSHin' MN</h3>
+          <h3 className="mb-5 text-3xl text-shadow-red-900">CRUSHin MN</h3>
           {/* <button className="btn btn-primary">Get Started</button> */}
         </div>
       </div>
